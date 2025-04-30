@@ -37,7 +37,6 @@ showing that retrieval behavior is driven by a small subset of heads in both Tra
    ```
 
 3. **Run the notebook:**
-   Launch the main experiment notebook:
    ```bash
    jupyter notebook notebook.ipynb
    ```
