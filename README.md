@@ -32,7 +32,6 @@ showing that retrieval behavior is driven by a small subset of heads in both Tra
    ```
 
 2. **Install dependencies:**
-   We recommend Python 3.10+ and PyTorch 2.1+.
    ```bash
    pip install -r requirements.txt
    ```
