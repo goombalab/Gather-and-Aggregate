@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.14.1
+torch==2.4.0
+matplotlib==3.8.3
+mamba-ssm==2.2.4
+transformers==4.49.0
+lm_eval==0.4.7
+flash-attn==2.7.0.post2
+wonderwords==2.2.0
+git+https://github.com/cartesia-ai/edge.git#subdirectory=cartesia-pytorch
