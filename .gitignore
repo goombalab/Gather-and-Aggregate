@@ -1,0 +1,4 @@
+# GIT IGNORE
+
+# Ignore cache files
+__pycache__
