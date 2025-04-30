@@ -63,12 +63,13 @@ showing that retrieval behavior is driven by a small subset of heads in both Tra
 If you find this repository useful, please cite:
 
 ```
-@misc{bick2025gather,
-  title={Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism},
-  author={Aviv Bick and Eric Xing and Albert Gu},
-  year={2025},
-  eprint={2504.18574},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+@misc{bick2025understandingskillgaprecurrent,
+      title={Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism}, 
+      author={Aviv Bick and Eric Xing and Albert Gu},
+      year={2025},
+      eprint={2504.18574},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2504.18574}, 
 }
 ```
